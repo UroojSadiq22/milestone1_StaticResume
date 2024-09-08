@@ -14,9 +14,7 @@ const Resume = () => {
       {/* <div className="relative z-1 w-full max-w-sm sm:max-w-md md:max-w-lg lg:max-w-xl"> */}
       <div className="max-w-xl max-h-xl w-[52rem] h-[36rem] p-4 sm:p-6 md:p-8 text-center bg-gradient-to-br from-pink-500 to-gray-800 dark:from-pink-900 dark:to-gray-900 border-[2px] border-gray">
         <div>
-          <h1 className="text-2xl mb-10 sm:text-3xl md:text-4xl font-headline font-bold">
-            Static Resume
-          </h1>
+          <h1 className="text-2xl mb-10 sm:text-3xl md:text-4xl font-headline font-bold">Static Resume</h1>
           <div className="text-sm md:text-base text-white">
             <div className="mb-10 flex flex-row gap-4 justify-center items-center">
               <div>
