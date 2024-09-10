@@ -70,7 +70,7 @@ const Resume = () => {
               <div className="flex sm:flex-row flex-col gap-6 text-white">
                 
                 <div className="sm:w-1/3 w-full cursor-pointer border border-gray-600 p-6 rounded-lg" style={{ boxShadow: "0 4px 8px rgba(255, 255, 255, 0.5)" }}>
-                <h2 className="text-lg font-bold">🔹 Bachelor's in Computer Science</h2>
+                <h2 className="text-lg font-bold">🔹 Bachelors in Computer Science</h2>
                 <p>UBIT-University of Karachi (2017-20)</p>
                 </div>
                 
